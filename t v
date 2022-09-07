@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:-1 ,BTV纪实HD
+http://js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi.m3u8
+#EXTINF:-1 ,CCTV1
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8
+#EXTINF:-1 ,CCTV-10HD
+http://js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10.m3u8
+#EXTINF:-1 ,CCTV-10超清
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
+#EXTINF:-1 ,CCTV-11超清
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
+#EXTINF:-1 ,CCTV-12HD
+http://js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12.m3u8
+#EXTINF:-1 ,CCTV-13超清
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
+#EXTINF:-1 ,CCTV-14
+http://js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14.m3u8
+#EXTINF:-1 ,cctv-15
+http://js-live-screenshot.gitv.tv/gitv_live/H265-5500k-1080P-cctv15/H265-5500k-1080P-cctv15.m3u8
+#EXTINF:-1 ,CCTV-15
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
+#EXTINF:-1 ,CCTV16
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
+#EXTINF:-1 ,CCTV164K
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
+4K/G_CCTV-16-4K.m3u8
+#EXTINF:-1 ,CCTV-17
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
+#EXTINF:-1 ,CCTV-17高清
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
+#EXTINF:-1 ,CCTV-1高清
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-1-HD-265-5M/G_CCTV-1-HD-265-5M.m3u8
+#EXTINF:-1 ,CCTV1综合频道高清12M
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
+#EXTINF:-1 ,CCTV2财经频道高清12M
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
+#EXTINF:-1 ,CCTV-2超清-GITV
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8
+#EXTINF:-1 ,CCTV-2高清
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M.m3u8
+#EXTINF:-1 ,CCTV-3
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-5M/G_CCTV-3-HD-265-5M.m3u8
+#EXTINF:-1 ,CCTV-3
+http://js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
