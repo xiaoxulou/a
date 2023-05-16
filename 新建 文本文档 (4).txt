@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://cntv.sbs/g?logo=phtv-info" group-title="鳳凰衛視",鳳凰資訊台
+https://cntv.sbs/abroad?id=h013
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://cntv.sbs/g?logo=phtv-live" group-title="鳳凰衛視",鳳凰中文台
+https://cntv.sbs/abroad?id=h014
