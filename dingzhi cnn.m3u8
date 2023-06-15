@@ -1,0 +1,13 @@
+#EXTINF:-1 group-title="英文", ABC News
+https://dispatch.ulivetv.net/v/live/cfxyzlerqda8.m3u8?stream_id=cfxyzlerqda8&timestamp=1686836515&rand=pqNkEcp2OA&uuid=9b647b3816b2a66a&from=web&sign=154fde309158810667e6584483503ffd
+#EXTINF:-1 group-title="英文", Bloomberg
+https://dispatch.ulivetv.net/v/live/cfxzwaesc1xc.m3u8?stream_id=cfxzwaesc1xc&timestamp=1686836636&rand=UqzHBMeUhv&uuid=9b647b3816b2a66a&from=web&sign=907bfb5ecf816a9dff2394bb50963441
+#EXTINF:-1 group-title="英文", FOX
+https://dispatch.ulivetv.net/v/live/cfy0k34f522o.m3u8?stream_id=cfy0k34f522o&timestamp=1686836718&rand=xGOSy8VEIi&uuid=9b647b3816b2a66a&from=web&sign=6c0a405b76526bd59acc31bf7cd55d33
+#EXTINF:-1 group-title="英文", BBC World News
+https://dispatch.ulivetv.net/v/live/cfxzpvvyodkw.m3u8?stream_id=cfxzpvvyodkw&timestamp=1686836778&rand=1LiBbN4QbS&uuid=9b647b3816b2a66a&from=web&sign=976f5f6dcc8d96bccffa5417fe70004e
+#EXTINF:-1 group-title="英文", cnn
+https://dispatch.ulivetv.net/v/live/cfxzi2gyzutc.m3u8?stream_id=cfxzi2gyzutc&timestamp=1686836822&rand=qkVcZLWsV6&uuid=9b647b3816b2a66a&from=web&sign=47aa100b01e4413069f30f27ad163c48
+#EXTINF:-1 group-title="英文", cnbc
+https://dispatch.ulivetv.net/v/live/cl7cdjqouc3k.m3u8?stream_id=cl7cdjqouc3k&timestamp=1686836858&rand=z3LS13H9qC&uuid=9b647b3816b2a66a&from=web&sign=d1a2cc72804acbedf89c3e8a4703c9b7
+
